@@ -1,7 +1,5 @@
 # 3D Spinning Cube
 
-![Logo](/Icon.svg, "Logo")
-
 ## Why Does This Exist
 
 A stupid project that has no purpose.

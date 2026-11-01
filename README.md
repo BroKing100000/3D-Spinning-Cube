@@ -16,9 +16,9 @@ I'm too dumb to understand how 3D space even works, so I just copied the [Scratc
 
 Yes, [Scratch](https://scratch.mit.edu).
 
-I converted the tutorial, which was intended for Scratch projects, into Python. This really explains why the code in this repository is terrible, because I literally did it in Scratch.
+I converted the tutorial, which was intended for Scratch projects, into Python. That really explains why the code is so terrible.
 
-That tutorial explains how to create a simple 3D cube.
+That tutorial explains how to create a simple 3D shapes.
 
 ## Customization
 
@@ -35,8 +35,3 @@ Also for easter egg, change the `shape` variable to `BroKing`:
 ```py
 shape = "BroKing"
 ```
-## Repository Commits
-
-| Commit (Version)         | Date                   |
-|:-------------------------|:----------------------:|
-| 1.0 (Current)            | 09 February 2026       |
